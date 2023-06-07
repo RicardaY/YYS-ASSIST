@@ -47,7 +47,7 @@ int CYYSAssistDlg::RegisterDmNew() {
 		return -500;
 	}
 	// 收费注册
-	long sn_ret = g_sn->Reg(_T("mh84909b3bf80d45c618136887775ccc90d27d7"), _T("mbz578l8rv8o707"));
+	long sn_ret = g_sn->Reg(_T(""), _T("")); //此处分别填写注册码和附加码
 	if (sn_ret != 1)
 	{
 		delete g_sn;
