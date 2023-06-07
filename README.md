@@ -77,7 +77,7 @@ if (sn_ret != 1)
 
 > 其中主要识别类接口都在`yys_function.cpp`与`yys_function.h`中，`snow.cpp`与`snow.h`继承自大漠的类`dmsoft`，可以使用大漠插件的所有方法，并且在此基础上封装了一些常用的功能性方法，简化开发。
 
-**项目文件组成：没有被框出的都是mfc界面组成文件，若没有特殊需要，不用有任何修改，只需要看public中的具体实现即可，每一个cpp文件对应一个副本功能**
+**项目文件组成：没有被框出的都是mfc界面组成文件，若没有特殊需要，不必做任何修改。主要逻辑代码只需要看public中的具体实现即可，每一个cpp文件对应一个副本功能**
 
 <img src="imgs/construct.png" style="zoom:80%;float:left" />
 
