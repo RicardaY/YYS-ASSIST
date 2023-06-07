@@ -1,3 +1,4 @@
+****
 # YYS  ASSIST
 
 [![version](https://img.shields.io/badge/YYS%20ASSIST-2.0.0-blueviolet?style=plastic&logo=appveyor)](https://github.com/RicardaY/yys/)   [![downloads](https://shields.io/npm/dm/keli-manage?style=flat-square)](https://github.com/RicardaY/YYS-ASSIST.git)  [![c++](https://img.shields.io/badge/C%2B%2B-17-ff69b4?style=plastic&logo=cplusplus)](https://isocpp.org/) 
@@ -18,7 +19,7 @@
 #### :unicorn: 使用文档：[点我查看](http://doc.sakurabot.com/)
 
 #### 💦运行视频：[点我查看](http://www.sakurayys.cn/)
-
+****
 ## :umbrella:简略教程(详细教程见[使用文档](http://doc.sakurabot.com/))
 
 ### :books:一、用打包好的exe,
@@ -34,7 +35,7 @@
 > </figure>
 >
 > 
-
+****
 ### 💦二、自己编译运行(需要有一定c++基础且看得懂大漠插件官方文档)
 
 1.下载源码或者通过git拉取，使用VS2017及以上版本（最好是2017）打开项目，修改`YYS_AssistDlg.cpp`中的大漠插件注册码（有相应注释），找到代码`g_sn->Reg(_T(""),_T(""))`;在两个`_T("")`中填入自己的大漠注册码和附加码(可淘宝或度娘)。
@@ -76,7 +77,7 @@ if (sn_ret != 1)
 
 > 其中主要识别类接口都在`yys_function.cpp`与`yys_function.h`中，`snow.cpp`与`snow.h`继承自大漠的类`dmsoft`，可以使用大漠插件的所有方法，并且在此基础上封装了一些常用的功能性方法，简化开发。
 
-**·项目文件组成：红框没有框的都是mfc界面组成文件，若没有特殊需要，不用有任何修改，只需要看public中的具体实现即可，每一个cpp文件对应一个副本功能**
+**项目文件组成：红框没有框的都是mfc界面组成文件，若没有特殊需要，不用有任何修改，只需要看public中的具体实现即可，每一个cpp文件对应一个副本功能**
 
 <img src="imgs/construct.png" style="zoom:80%;float:left" />
 
@@ -95,7 +96,3 @@ if (sn_ret != 1)
 <img src="imgs/exp2.png" alt="示例2" style="zoom:80%;float:left" />
 
 > Tips:上两张图中的txt文件是用到的字库，源码的resource中已提供。
-=======
-# YYS-ASSIST
-一个阴阳师自动化助手，解放双手。
->>>>>>> 59c3d37a7e2bae9e84b1f027eca8f61be062d2d0
