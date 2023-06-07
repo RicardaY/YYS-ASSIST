@@ -5,7 +5,7 @@
 
  [![Json](https://img.shields.io/badge/JsonCpp-1.9.5-9cf?style=plastic&logo=loop&logoColor=brightgreen)](https://github.com/open-source-parsers/jsoncpp.git)    [![Chat](https://img.shields.io/badge/群-462947796-critical?style=plastic&logo=tencentqq&logoColor=skyblue)](https://isocpp.org/)   [![GitHub](https://img.shields.io/badge/Github-0.8k-informational?style=plastic&logo=github&logoColor=#181717)](https://github.com/RicardaY/YYS-ASSIST.git)    [![Homepage](https://img.shields.io/badge/Document-doc-informational?style=plastic&logo=wheniwork&logoColor=9cf)](http://doc.sakurabot.com/) 
 
-一个神奇的痒痒鼠图色识别助手，采用**Mersenne Twister**算法生成高质量的随机数，实现随即延迟点击、随机偏移坐标。
+一个神奇的痒痒鼠图色识别助手，采用**Mersenne Twister**算法生成高质量的随机数，实现随机延迟点击、随机偏移坐标。
 
 简单、轻便、解放双手  
 环境隔离、稳定防封、支持多开、效率翻倍  
