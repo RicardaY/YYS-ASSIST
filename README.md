@@ -11,6 +11,7 @@
 :hammer:  环境隔离、稳定防封、支持多开、效率翻倍  
 :ram:  丰富的副本功能、优异的执行效率、清晰的教程文档、极致的用户体验！  
 ****
+<img src="imgs\intro.png" alt="assist" style="zoom:50%;float:left" />
 
 #### :rocket:前言
 
@@ -18,7 +19,6 @@
 
 #### :unicorn: 使用文档：[点我查看](http://doc.sakurabot.com/)
 
-#### 💦运行视频：[点我查看](http://www.sakurayys.cn/)
 ****
 ## :umbrella:简略教程(详细教程见[使用文档](http://doc.sakurabot.com/))
 
