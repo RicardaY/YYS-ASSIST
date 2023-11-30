@@ -1,4 +1,3 @@
-****
 # YYS  ASSIST
 
 [![version](https://img.shields.io/badge/YYS%20ASSIST-2.0.0-blueviolet?style=plastic&logo=appveyor)](https://github.com/RicardaY/yys/)   [![downloads](https://shields.io/npm/dm/keli-manage?style=flat-square)](https://github.com/RicardaY/YYS-ASSIST.git)  [![c++](https://img.shields.io/badge/C%2B%2B-17-ff69b4?style=plastic&logo=cplusplus)](https://isocpp.org/) 
@@ -10,7 +9,7 @@
 :orange_book:  简单、轻便、解放双手  
 :hammer:  环境隔离、稳定防封、支持多开、效率翻倍  
 :ram:  丰富的副本功能、优异的执行效率、清晰的教程文档、极致的用户体验！  
-****
+
 <img src="imgs\intro.png" alt="assist" style="zoom:50%;float:left" />
 
 #### :rocket:前言
@@ -19,7 +18,6 @@
 
 #### :unicorn: 使用文档：[点我查看](http://doc.sakurabot.com/)
 
-****
 ## :umbrella:简略教程(详细教程见[使用文档](http://doc.sakurabot.com/))
 
 ### :books:一、用打包好的exe,
@@ -35,7 +33,7 @@
 > </figure>
 >
 > 
-****
+
 ### 💦二、自己编译运行(需要有一定c++基础且看得懂大漠插件官方文档)
 
 1.下载源码或者通过git拉取，使用VS2017及以上版本（最好是2017）打开项目，修改`YYS_AssistDlg.cpp`中的大漠插件注册码（有相应注释），找到代码`g_sn->Reg(_T(""),_T(""))`;在两个`_T("")`中填入自己的大漠注册码和附加码(可淘宝或度娘)。
